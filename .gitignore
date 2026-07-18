@@ -1,0 +1,11 @@
+.env
+.env.local
+.env.development
+
+node_modules/
+dist/
+logs/
+src/**/*.js
+temp/
+.DS_Store
+Thumbs.db
